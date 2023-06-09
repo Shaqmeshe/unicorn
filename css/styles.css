@@ -75,7 +75,7 @@ header {
   padding: 60px 0;
   min-height: 50vh;
   text-align: center;
-  background-image: url("https://raw.githubusercontent.com/5t3ph/howtowebdev-capstone/master/lessons/16-website-launch/src/img/starry-sky.jpg");
+  background-image: url(../img/starry-sky.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: inset 100vw 100vh rgba(21, 15, 100, 0.6);
@@ -128,7 +128,7 @@ main {
 }
 
 #about {
-  background-image: url("https://raw.githubusercontent.com/5t3ph/howtowebdev-capstone/f671bafad891de982c0fba0ef22d929db591c875/lessons/16-website-launch/src/img/stars-icon.svg");
+  background-image: url(../img/stars-icon.svg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right center;
